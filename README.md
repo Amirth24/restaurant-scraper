@@ -6,8 +6,8 @@ A Scraper that extract information about Restaurants (Name and Rating).
 
 1. Clone the repo
 ```
-    git clone {}
-    cd {}
+    git clone https://github.com/Amirth24/restaurant-scraper.git 
+    cd restaurant-scraper
 ```
 
 2. Create Virtual Environment using Python's `venv` module
